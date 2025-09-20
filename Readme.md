@@ -8,9 +8,9 @@ A fully functional **Chess Game** built from scratch! This project allows two pl
 
 - ✅ Two-player local gameplay  
 - ✅ Full chess rules (legal moves, check, checkmate, stalemate)  
-- ✅ Move highlighting & undo option  
+<!-- - ✅ Move highlighting & undo option  
 - ✅ Visual representation of the chessboard  
-- ✅ Responsive design (if web-based)  
+- ✅ Responsive design (if web-based)   -->
 
 ---
 
