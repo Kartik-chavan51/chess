@@ -22,6 +22,10 @@ app.get("/",(req,res)=>{
 
 io.on("connection",function (uniqueSocket){
     console.log("New Connection: "+uniqueSocket.id);
+
+    uniqueSocket.on("disconnect",()=>{
+        console.log("Disconnected: "+uniqueSocket.id);
+    })
 })
 
 
