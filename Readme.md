@@ -19,7 +19,7 @@ A fully functional **Chess Game** built from scratch! This project allows two pl
 | Part | Technology |
 |------|-------------|
 | **Frontend** | HTML, CSS, JavaScript (or React if using framework) |
-| **Backend** | Optional –  use Node.js |
+| **Backend** | Optional –  use Node.js,Exprees.js,Socket.io,Chess.js(Engine) |
 | **Programming Language** | JavaScript |
 
 ---

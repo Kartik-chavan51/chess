@@ -1,0 +1,26 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "A fully functional **Chess Game** built from scratch! This project allows two players to play chess, following standard chess rules, with features like move validation, check/checkmate detection, and an interactive UI.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kartik-chavan51/chess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kartik-chavan51/chess/issues"
+  },
+  "homepage": "https://github.com/Kartik-chavan51/chess#readme",
+  "dependencies": {
+    "chess.js": "^1.4.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
